@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/Users/alitonkaz/StudioProjects/KacEder2/app/build/intermediates/res/merged/release/menu_game.xml.flat",
+        "source": "/Users/alitonkaz/StudioProjects/KacEder2/app/src/main/res/menu/game.xml"
+    },
+    {
+        "merged": "/Users/alitonkaz/StudioProjects/KacEder2/app/build/intermediates/res/merged/release/layout_puan.xml.flat",
+        "source": "/Users/alitonkaz/StudioProjects/KacEder2/app/src/main/res/layout/puan.xml"
+    },
+    {
+        "merged": "/Users/alitonkaz/StudioProjects/KacEder2/app/build/intermediates/res/merged/release/layout_seviye.xml.flat",
+        "source": "/Users/alitonkaz/StudioProjects/KacEder2/app/src/main/res/layout/seviye.xml"
+    },
+    {
+        "merged": "/Users/alitonkaz/StudioProjects/KacEder2/app/build/intermediates/res/merged/release/layout_activity_main.xml.flat",
+        "source": "/Users/alitonkaz/StudioProjects/KacEder2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/alitonkaz/StudioProjects/KacEder2/app/build/intermediates/res/merged/release/drawable-xhdpi_round_button2.xml.flat",
+        "source": "/Users/alitonkaz/StudioProjects/KacEder2/app/src/main/res/drawable-xhdpi/round_button2.xml"
+    },
+    {
+        "merged": "/Users/alitonkaz/StudioProjects/KacEder2/app/build/intermediates/res/merged/release/drawable_round_button2.xml.flat",
+        "source": "/Users/alitonkaz/StudioProjects/KacEder2/app/src/main/res/drawable/round_button2.xml"
+    },
+    {
+        "merged": "/Users/alitonkaz/StudioProjects/KacEder2/app/build/intermediates/res/merged/release/drawable_round_button.xml.flat",
+        "source": "/Users/alitonkaz/StudioProjects/KacEder2/app/src/main/res/drawable/round_button.xml"
+    },
+    {
+        "merged": "/Users/alitonkaz/StudioProjects/KacEder2/app/build/intermediates/res/merged/release/drawable-ldpi_round_button2.xml.flat",
+        "source": "/Users/alitonkaz/StudioProjects/KacEder2/app/src/main/res/drawable-ldpi/round_button2.xml"
+    },
+    {
+        "merged": "/Users/alitonkaz/StudioProjects/KacEder2/app/build/intermediates/res/merged/release/raw_n.mp4.flat",
+        "source": "/Users/alitonkaz/StudioProjects/KacEder2/app/src/main/res/raw/n.mp4"
+    },
+    {
+        "merged": "/Users/alitonkaz/StudioProjects/KacEder2/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/alitonkaz/StudioProjects/KacEder2/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/alitonkaz/StudioProjects/KacEder2/app/build/intermediates/res/merged/release/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/alitonkaz/StudioProjects/KacEder2/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/alitonkaz/StudioProjects/KacEder2/app/build/intermediates/res/merged/release/drawable-xxhdpi_round_button2.xml.flat",
+        "source": "/Users/alitonkaz/StudioProjects/KacEder2/app/src/main/res/drawable-xxhdpi/round_button2.xml"
+    },
+    {
+        "merged": "/Users/alitonkaz/StudioProjects/KacEder2/app/build/intermediates/res/merged/release/drawable_game.png.flat",
+        "source": "/Users/alitonkaz/StudioProjects/KacEder2/app/src/main/res/drawable/game.png"
+    },
+    {
+        "merged": "/Users/alitonkaz/StudioProjects/KacEder2/app/build/intermediates/res/merged/release/menu_main.xml.flat",
+        "source": "/Users/alitonkaz/StudioProjects/KacEder2/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/alitonkaz/StudioProjects/KacEder2/app/build/intermediates/res/merged/release/drawable_puan.png.flat",
+        "source": "/Users/alitonkaz/StudioProjects/KacEder2/app/src/main/res/drawable/puan.png"
+    },
+    {
+        "merged": "/Users/alitonkaz/StudioProjects/KacEder2/app/build/intermediates/res/merged/release/drawable_ic_launcher.png.flat",
+        "source": "/Users/alitonkaz/StudioProjects/KacEder2/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/alitonkaz/StudioProjects/KacEder2/app/build/intermediates/res/merged/release/layout_activity_game.xml.flat",
+        "source": "/Users/alitonkaz/StudioProjects/KacEder2/app/src/main/res/layout/activity_game.xml"
+    },
+    {
+        "merged": "/Users/alitonkaz/StudioProjects/KacEder2/app/build/intermediates/res/merged/release/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/alitonkaz/StudioProjects/KacEder2/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/alitonkaz/StudioProjects/KacEder2/app/build/intermediates/res/merged/release/drawable-mdpi_round_button2.xml.flat",
+        "source": "/Users/alitonkaz/StudioProjects/KacEder2/app/src/main/res/drawable-mdpi/round_button2.xml"
+    },
+    {
+        "merged": "/Users/alitonkaz/StudioProjects/KacEder2/app/build/intermediates/res/merged/release/drawable-hdpi_round_button2.xml.flat",
+        "source": "/Users/alitonkaz/StudioProjects/KacEder2/app/src/main/res/drawable-hdpi/round_button2.xml"
+    },
+    {
+        "merged": "/Users/alitonkaz/StudioProjects/KacEder2/app/build/intermediates/res/merged/release/drawable-hdpi_scrib.png.flat",
+        "source": "/Users/alitonkaz/StudioProjects/KacEder2/app/src/main/res/drawable-hdpi/scrib.png"
+    },
+    {
+        "merged": "/Users/alitonkaz/StudioProjects/KacEder2/app/build/intermediates/res/merged/release/raw_splash.mp4.flat",
+        "source": "/Users/alitonkaz/StudioProjects/KacEder2/app/src/main/res/raw/splash.mp4"
+    },
+    {
+        "merged": "/Users/alitonkaz/StudioProjects/KacEder2/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/alitonkaz/StudioProjects/KacEder2/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    }
+]

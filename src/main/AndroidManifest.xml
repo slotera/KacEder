@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kaceder.kaceder"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="22"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.kaceder.kaceder.SplashActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen"
+            android:screenOrientation="landscape" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.kaceder.kaceder.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"
+            android:screenOrientation="nosensor" 
+            >
+           
+        </activity>
+        
+        <activity
+            android:name="com.kaceder.kaceder.Game"
+            android:label="@string/title_activity_game"
+             android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"
+             android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name="com.kaceder.kaceder.Seviye"
+             android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"
+             android:screenOrientation="nosensor" >
+        </activity>
+         <activity
+            android:name="com.kaceder.kaceder.Puan"
+             android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"
+             android:screenOrientation="nosensor" >
+        </activity>
+    </application>
+
+</manifest>
