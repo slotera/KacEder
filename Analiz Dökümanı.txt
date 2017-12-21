@@ -1,0 +1,4 @@
+Projenin Amacı: Bu proje herhangi bir yaş kısıtı farketmeksizin insanların boş zamanlarında ellerinden düşmeyen telefonları ile biraz olsun pratik yaptığı bir uygulama hedeflemektedir. Basit 4 işlemlerin yer aldığı ve 3 seviyeden oluşan bu oyun sayesinde kendini test edebilirsiniz.
+
+Başarı Kitlesi: Her yaştan insanı hedef almaktadır.
+
